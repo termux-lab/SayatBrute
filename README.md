@@ -16,7 +16,7 @@
 6) cd SayatBrute<br>
 7) python main.py<br>
 <h2># install for Termux<br></h2></br>
-1) pkg install python && pkg install git
+1) pkg install python && pkg install git<br>
 2) pip3 install colorama && pip3 install requests<br>
 3) cd SayatBrute<br>
 4) git clone https://github.com/termux-lab/SayatBrute<br>
