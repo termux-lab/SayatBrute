@@ -9,7 +9,7 @@
 5) python3 main.py<br>
 <h2># install for windows<br></h2>
 1) Download Python3<br>
-2) Download Git<br>
+2) <a href="https://gitforwindows.org/">Download Git</a><br>
 3) git clone https://github.com/termux-lab/SayatBrute<br>
 4) pip install colorama<br>
 5) pip install requests<br>
