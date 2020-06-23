@@ -1,2 +1,2 @@
 # SayatBrute
-<img src="sa.jpg" height="100px">
+<img src="sa.jpg" height="300px">
