@@ -2,7 +2,7 @@
 <img src="sa.jpg" height="300px">
 <p>utility for brute force web application authorization form sayat.me</p>
 <h2># install for Linux</h2><br>
-1)apt-get install git && apt-get install python3 && apt-get install python3-pip<br>
+1)apt-get update && apt-get install git && apt-get install python3 && apt-get install python3-pip --fix-missing<br>
 2)git clone https://github.com/termux-lab/SayatBrute<br>
 3)cd SayatBrute<br>
 4)python3 main.py<br>
